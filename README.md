@@ -1,9 +1,12 @@
 <a href="mailto:vladislav.lnx@gmail.com">
-<img src="https://img.shields.io/badge/Email-Vlad-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/torhovenkov/" target="_blank">
+<img src="https://img.shields.io/badge/Email-Vlad-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white">
+<a href="https://www.linkedin.com/in/torhovenkov/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Vladyslav%20Torhovenkov-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white" >
   
 # [Air File Drop Share & Transfer](https://apps.apple.com/us/app/air-file-drop-share-transfer/id6469042962?ls=1)
 
-Available on AppStore!
+<p align="left"> <a href="https://apps.apple.com/us/app/air-file-drop-share-transfer/id6469042962?ls=1" download><img src="https://user-images.githubusercontent.com/33416429/92803227-11456700-f36c-11ea-9d0a-f51c0e848163.png" width="150" ></a>
+</p>
 
 Share & Transfer Air File Drop - Your ultimate file and photo sharing app for Apple devices.
 
