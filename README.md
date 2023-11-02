@@ -5,8 +5,10 @@
   
 # [Air File Drop Share & Transfer](https://apps.apple.com/us/app/air-file-drop-share-transfer/id6469042962?ls=1)
 
-<p align="left"> <a href="https://apps.apple.com/us/app/air-file-drop-share-transfer/id6469042962?ls=1" download><img src="https://user-images.githubusercontent.com/33416429/92803227-11456700-f36c-11ea-9d0a-f51c0e848163.png" width="150" ></a>
-</p>
+ <p align="left"> <a href="https://apps.apple.com/us/app/air-file-drop-share-transfer/id6469042962?ls=1" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="170" ></a>
+ </p>
+
+
 
 Share & Transfer Air File Drop - Your ultimate file and photo sharing app for Apple devices.
 
@@ -30,6 +32,9 @@ Try Share & Transfer Air File Drop and revolutionize the way you share files, pi
 </p>
 
 # [NewsApiApp](https://github.com/torhovenkov/NewsApiApp)
+
+<p align="left"> <a href="https://github.com/torhovenkov/NewsApiApp"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+</p>
 
 Explore latest news for interested topic
 * Framework: SwiftUI
