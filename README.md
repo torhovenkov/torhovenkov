@@ -2,6 +2,37 @@
 <img src="https://img.shields.io/badge/Email-Vlad-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white">
 <a href="https://www.linkedin.com/in/torhovenkov/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Vladyslav%20Torhovenkov-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white" >
+
+# [Printer App - Smart Print,Scan](https://apps.apple.com/us/app/printer-app-smart-print-scan/id6471589882)
+
+ <p align="left"> <a href="https://apps.apple.com/us/app/printer-app-smart-print-scan/id6471589882" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="170" ></a>
+ </p>
+
+
+
+Printer App - Smart Print,Scan
+
+
+Printer - Smart Print & Scan is a versatile and user-friendly mobile printing app designed for iPhone and iPad users, offering an array of powerful features to streamline your printing and document management needs.
+
+Key Features:
+- Print with iPhone & iPad
+- Print any documents from files
+- Scan, create, and print documents
+- Print photos from the gallery
+- Print Webpages
+- Printer Support: From any wireless printer, you may easily print documents. If you connect your device to the same Wi-Fi network as the printer, it will print instantly.
+
+With various features and extensive printer support, Printer - Smart Print & Scan makes printing documents, photos, emails, and webpages a breeze.
+
+Experience the freedom of mobile printing with a Printer - Smart Print & Scan today!
+
+<p align="left">
+<img src="https://github.com/torhovenkov/Printer-Smart/assets/45015699/60b7390c-51aa-44e0-b5f5-daf1138757b0" width="150" title="Printer App - Smart Print,Scan">
+<img src="https://github.com/torhovenkov/Printer-Smart/assets/45015699/b3be5bef-f5d8-4551-8d61-b042d427f1fe" width="150" title="Printer App - Smart Print,Scan">
+<img src="https://github.com/torhovenkov/Printer-Smart/assets/45015699/fbb0dc9d-3fb3-45bc-9df3-897fc6ef1d5b" width="150" title="Printer App - Smart Print,Scan">
+<img src="https://github.com/torhovenkov/Printer-Smart/assets/45015699/6b6b485b-c99c-4177-a145-09db9cc65c5f" width="150" title="Printer App - Smart Print,Scan">
+</p>
   
 # [Air File Drop Share & Transfer](https://apps.apple.com/us/app/air-file-drop-share-transfer/id6469042962?ls=1)
 
