@@ -130,4 +130,4 @@ App has:
 # Contact Info:
 
 - Email: vladislav.lnx@gmail.com
-- telegram: @vladislav_to
+- telegram: @torh_vlad
