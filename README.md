@@ -3,6 +3,35 @@
 <a href="https://www.linkedin.com/in/torhovenkov/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Vladyslav%20Torhovenkov-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white" >
 
+# [Cleaner Plus](https://apps.apple.com/ua/app/cleaner-plus-clean-storage/id6502288145)
+
+ <p align="left"> <a href="https://apps.apple.com/ua/app/cleaner-plus-clean-storage/id6502288145" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="170" ></a>
+ </p>
+
+Cleaner Plus Clean Storage – Your ultimate tool for streamlining your iPhone's storage. With just a tap, you can effortlessly enhance your device’s performance and free up valuable space.
+
+Leverage the power of our Smart Cleaning feature to simultaneously remove all unnecessary files, ensuring a cleaner and faster device.
+
+Cleaner Plus Clean Storage Features:
+
+- Duplicate Photos Detection: Identify and delete duplicate or similar photos, including screenshots, burst photos, and live images.
+
+- Video Management: Find and either delete or compress large video files to recover space.
+
+- Contacts Cleanup: Quickly find and merge duplicate or incomplete contacts with one easy tap.
+
+- Calendar Cleaning: Clean out old events from your Calendar to keep it neat and current.
+
+- Secret Folder: Securely hide your personal photos and videos in a secret folder, keeping them private and protected.
+
+<p align="left">
+<img src="https://github.com/torhovenkov/Cleaner/assets/45015699/2a731d95-8884-40e6-bf50-1ed4b1b0b3a5" width="150" title="Cleaner">
+<img src="https://github.com/torhovenkov/Cleaner/assets/45015699/bb3af7aa-6c72-4e1e-8c87-5ceaa5de869a" width="150" title="Cleaner">
+<img src="https://github.com/torhovenkov/Cleaner/assets/45015699/e049aa93-4af0-4198-9dae-47b60970362c" width="150" title="Cleaner">
+<img src="https://github.com/torhovenkov/Cleaner/assets/45015699/996962bd-0089-4be0-92a8-e4ef82a46213" width="150" title="Cleaner">
+<img src="https://github.com/torhovenkov/Cleaner/assets/45015699/22b49c33-d5d4-48bf-b958-d3934dda7097" width="150" title="Cleaner">
+</p>
+  
 # [Printer App - Smart Print,Scan](https://apps.apple.com/us/app/printer-app-smart-print-scan/id6471589882)
 
  <p align="left"> <a href="https://apps.apple.com/us/app/printer-app-smart-print-scan/id6471589882" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="170" ></a>
