@@ -2,6 +2,31 @@
 <img src="https://img.shields.io/badge/Email-Vlad-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white">
 <a href="https://www.linkedin.com/in/torhovenkov/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Vladyslav%20Torhovenkov-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white" >
+# [IPTV PRO](https://apps.apple.com/ua/app/iptv-pro-gse-smart-tv-player/id1492179924)
+
+ <p align="left"> <a href="https://apps.apple.com/ua/app/iptv-pro-gse-smart-tv-player/id1492179924" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="170" ></a>
+ </p>
+Introducing IPTV Pro: Your Ultimate Streaming Solution!
+
+Features:
+
+- SMART IMPORT: Simply paste the link, and we'll handle the rest.
+- CHROMECAST & AIRPLAY SUPPORT: Cast your favorite content from your iPhone or iPad to your TV.
+- iCLOUD SYNC: Enjoy seamless continuity across your devices.
+
+IMPORTANT NOTE:
+IPTV Pro does not provide any IPTV services such as subscribtions or streams. User must contact their TV service provider for credentials and content access.
+
+<p align="left">
+ <img src="https://github.com/user-attachments/assets/59938a90-de7c-4004-8845-e2ce5e0baccb" width="150" title="IPTV PRO">
+ <img src="https://github.com/user-attachments/assets/537b9db1-8ab1-439a-afd7-f427fd23855c" width="150" title="IPTV PRO">
+ <img src="https://github.com/user-attachments/assets/98da3b4a-7eda-4e14-bdd9-6e818ee4ecac" width="150" title="IPTV PRO">
+ <img src="https://github.com/user-attachments/assets/1ac7440d-6863-4f2b-b74d-694ce77b3e03" width="150" title="IPTV PRO">
+ <img src="https://github.com/user-attachments/assets/9fbaa5fd-8a81-461d-8ac1-35c1d559f779" width="150" title="IPTV PRO">
+ <img src="https://github.com/user-attachments/assets/51cbc0b6-fc69-48cb-9317-05602cad8c31" width="150" title="IPTV PRO">
+</p>
+
+
 
 # [Cleaner Plus](https://apps.apple.com/ua/app/cleaner-plus-clean-storage/id6502288145)
 
