@@ -24,7 +24,7 @@ IPTV Pro does not provide any IPTV services such as subscribtions or streams. Us
  <img src="https://github.com/user-attachments/assets/98da3b4a-7eda-4e14-bdd9-6e818ee4ecac" width="150" title="IPTV PRO">
  <img src="https://github.com/user-attachments/assets/1ac7440d-6863-4f2b-b74d-694ce77b3e03" width="150" title="IPTV PRO">
  <img src="https://github.com/user-attachments/assets/9fbaa5fd-8a81-461d-8ac1-35c1d559f779" width="150" title="IPTV PRO">
- <img src="https://github.com/user-attachments/assets/51cbc0b6-fc69-48cb-9317-05602cad8c31" width="150" title="IPTV PRO">
+<!--  <img src="https://github.com/user-attachments/assets/51cbc0b6-fc69-48cb-9317-05602cad8c31" width="150" title="IPTV PRO"> -->
 </p>
 
 
